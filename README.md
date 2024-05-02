@@ -8,8 +8,6 @@ I'm Pakin jinjai, a Junior Developer passionate about creating awesome web appli
 📫 You can reach me at
 
 Mail :[pakin.developer@gmail.com],
-
 Instagram :[https://www.instagram.com/ppakinjj],
-
 Facebook :[https://www.facebook.com/profile.php?id=100047043649470]
 Feel free to connect with me! Let's collaborate and create something amazing together. 😄
