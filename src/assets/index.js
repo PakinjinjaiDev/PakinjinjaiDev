@@ -26,3 +26,4 @@ export { default as loading } from "./work/loading.png";
 export { default as Profile } from "./profile.png";
 export { default as VueJs } from "./vuejs.svg";
 export { default as TypeScript } from "./typescript.svg";
+export { default as Grandwatergate } from "./grandwatergate.png";
