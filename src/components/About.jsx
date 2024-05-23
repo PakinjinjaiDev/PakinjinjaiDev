@@ -60,7 +60,7 @@ const About = () => {
           </p>
           <p className="flex gap-3 items-center justify-center rounded-full shadow-lg py-2 px-4 bg-[#030a1c] text-white cursor-pointer hover:scale-125 ease-in-out duration-500">
             <MdEmail size={24} />
-            pakin.281244@gmail.com
+            pakin.developer@gmail.com
           </p>
           <p className="flex gap-3 items-center justify-center rounded-full shadow-lg py-2 px-4 bg-[#030a1c] text-white cursor-pointer hover:scale-125 ease-in-out duration-500">
             <CgPhone size={24} />
@@ -72,7 +72,7 @@ const About = () => {
           </p>
           <p className="flex gap-3 items-center justify-center rounded-full shadow-lg py-2 px-4 bg-[#030a1c] text-white cursor-pointer hover:scale-125 ease-in-out duration-500">
             <FaGithub size={24} />
-            github.com/Pakinjinjai
+            github.com/PakinjinjaiDev
           </p>
         </div>
       </div>
