@@ -91,8 +91,8 @@ export const skills = [
 export const projects = [
   {
     id: 1,
-    title: "Project name",
-    cat: "Type of project",
+    title: "Grand Watergate Hotel",
+    cat: "Hotel WebSite",
     url: "",
     img: loading,
   },
