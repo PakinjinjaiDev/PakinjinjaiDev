@@ -9,6 +9,7 @@ import {
   VueJs,
   TypeScript,
   loading,
+  Grandwatergate
 } from "./assets";
 
 export const projectStats = [
@@ -94,7 +95,7 @@ export const projects = [
     title: "Grand Watergate Hotel",
     cat: "Hotel WebSite",
     url: "",
-    img: "./assets/work/grandwatergate.png",
+    img: Grandwatergate,
   },
   {
     id: 2,
