@@ -94,7 +94,7 @@ export const projects = [
     title: "Grand Watergate Hotel",
     cat: "Hotel WebSite",
     url: "",
-    img: loading,
+    img: "./assets/work/grandwatergate.png",
   },
   {
     id: 2,
