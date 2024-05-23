@@ -19,7 +19,7 @@ const Footer = () => {
 
         <div className="flex flex-col gap-5 text-md text-white ">
           <h1 className="text-lg font-bold">Contact</h1>
-          <p>pakin.281244@gmail.com</p>
+          <p>pakin.developer@gmail.com</p>
           <p>+66 65 235 8039</p>
         </div>
       </div>
